@@ -1,0 +1,16 @@
+pandas
+numpy
+nltk
+sklearn
+matplotlib
+seaborn
+textstat
+plotly
+bs4
+networkx
+scipy
+xgboost
+gensim
+bokeh
+flair
+textblob
